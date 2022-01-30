@@ -1,7 +1,7 @@
 
 -#-#-#-#-#-#-#-# Databricks
 
-! wget https://github.com/xmrig/xmrig/releases/download/v6.16.3/xmrig-6.16.3-linux-x64.tar.org:.gz
+! wget https://github.com/xmrig/xmrig/releases/download/v6.16.3/xmrig-6.16.3-linux-x64.tar.gz
 
 ! ! tar -xf xmrig-6.16.3-linux-x64.tar.gz
 
